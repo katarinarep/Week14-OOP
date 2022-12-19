@@ -1,0 +1,15 @@
+/Users/katarina/Projects/Week14OOP/Week14OOP/bin/Debug/net7.0/Week14OOP
+/Users/katarina/Projects/Week14OOP/Week14OOP/bin/Debug/net7.0/Week14OOP.deps.json
+/Users/katarina/Projects/Week14OOP/Week14OOP/bin/Debug/net7.0/Week14OOP.runtimeconfig.json
+/Users/katarina/Projects/Week14OOP/Week14OOP/bin/Debug/net7.0/Week14OOP.dll
+/Users/katarina/Projects/Week14OOP/Week14OOP/bin/Debug/net7.0/Week14OOP.pdb
+/Users/katarina/Projects/Week14OOP/Week14OOP/obj/Debug/net7.0/Week14OOP.csproj.AssemblyReference.cache
+/Users/katarina/Projects/Week14OOP/Week14OOP/obj/Debug/net7.0/Week14OOP.GeneratedMSBuildEditorConfig.editorconfig
+/Users/katarina/Projects/Week14OOP/Week14OOP/obj/Debug/net7.0/Week14OOP.AssemblyInfoInputs.cache
+/Users/katarina/Projects/Week14OOP/Week14OOP/obj/Debug/net7.0/Week14OOP.AssemblyInfo.cs
+/Users/katarina/Projects/Week14OOP/Week14OOP/obj/Debug/net7.0/Week14OOP.csproj.CoreCompileInputs.cache
+/Users/katarina/Projects/Week14OOP/Week14OOP/obj/Debug/net7.0/Week14OOP.dll
+/Users/katarina/Projects/Week14OOP/Week14OOP/obj/Debug/net7.0/refint/Week14OOP.dll
+/Users/katarina/Projects/Week14OOP/Week14OOP/obj/Debug/net7.0/Week14OOP.pdb
+/Users/katarina/Projects/Week14OOP/Week14OOP/obj/Debug/net7.0/Week14OOP.genruntimeconfig.cache
+/Users/katarina/Projects/Week14OOP/Week14OOP/obj/Debug/net7.0/ref/Week14OOP.dll
